@@ -11,3 +11,4 @@ https://www.youtube.com/watch?v=xi0vhXFPegw - EDA walkthrough --
 https://www.aavso.org/zurich-classification-system-sunspot-groups - Zurich Classification of sunspot groups --
 https://www.stce.be/educational/classification - McIntosh classification system for sunspots --
 Pandas Documentation
+https://www.geeksforgeeks.org/pandas/pandas-replace-multiple-values-in-python/
