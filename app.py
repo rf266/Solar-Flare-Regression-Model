@@ -1,9 +1,8 @@
-from fastapi import FastAPI, Response
+from fastapi import FastAPI
 import uvicorn
 import joblib
 import pandas as pd
 from pydantic import BaseModel, Field
-import json
 
 app = FastAPI()
 
